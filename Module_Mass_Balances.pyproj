@@ -41,6 +41,8 @@
     <Compile Include="Chiara_dPerm_dz.py" />
     <Compile Include="Chiara_dPerm_dz_dP.py" />
     <Compile Include="CO_ODE_BVP_dP.py" />
+    <Compile Include="CC_non_iso.py" />
+    <Compile Include="MAIN_non_iso.py" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Requirements.txt" />
